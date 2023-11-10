@@ -1,10 +1,10 @@
 # legalBot_backend
 
-#for creating virtual env
-python -m venv virenv
+#for creating virtual environment
+**'python -m venv virenv'**
 
-#to activate ctrl + shift + ~
-virenv/Scripts/Activate.ps1
+#to activate, press : ctrl + shift + ~
+**'virenv/Scripts/Activate.ps1'**
 
-#to install the req
-pip install -r ./requirements.txt
+#to install the libraries
+**'pip install -r ./requirements.txt'**
